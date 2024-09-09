@@ -7,3 +7,4 @@ xhofe/alist:latest
 redis:latest
 mysql:latest
 es01:latest
+
